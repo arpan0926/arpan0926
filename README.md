@@ -10,8 +10,8 @@
 - 🎓 I'm a third-year B.Tech Computer Science student at Delhi Technological University (DTU).
 - 🧠 My research and development interests heavily focus on **Machine Learning, Generative AI, LLM systems, and Agentic workflows**.
 - 🔭 I am currently building healthcare-focused LLM-agent environments and advanced RAG pipelines for complex data processing.
-- 💻 I actively solve competitive programming challenges using C++ and build scalable full-stack ML applications.
-- 📫 How to reach me: **arpansharma9106@gmail.com**[cite: 3]
+- 💻 I actively solve competitive programming challenges using C++ and build scalable full-stack AI/ML applications.
+- 📫 How to reach me: **arpansharma9106@gmail.com**
 
 ### 🛠️ Tech Stack
 
@@ -25,6 +25,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
+
 *Ecosystem:* LLMs, RAG, ChromaDB, Sentence-Transformers, LightGBM, CatBoost, Prompt Engineering.
 
 **Backend & Infrastructure:**

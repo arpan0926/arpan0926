@@ -7,12 +7,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a third-year B.Tech Computer Science student at Delhi Technological University (DTU)[cite: 3].
-- 🧠 My research and development interests heavily focus on **Machine Learning, Generative AI, LLM systems, and Agentic workflows**[cite: 3].
-- 🔭 I am currently building healthcare-focused LLM-agent environments and advanced RAG pipelines for complex data processing[cite: 3].
-- 💻 I actively solve competitive programming challenges using C++ and build scalable full-stack ML applications[cite: 3].
+- 🎓 I'm a third-year B.Tech Computer Science student at Delhi Technological University (DTU).
+- 🧠 My research and development interests heavily focus on **Machine Learning, Generative AI, LLM systems, and Agentic workflows**.
+- 🔭 I am currently building healthcare-focused LLM-agent environments and advanced RAG pipelines for complex data processing.
+- 💻 I actively solve competitive programming challenges using C++ and build scalable full-stack ML applications.
 - 📫 How to reach me: **arpansharma9106@gmail.com**[cite: 3]
-- 📄 [Download my full CV (PDF)](Awesome_CV.pdf)
 
 ### 🛠️ Tech Stack
 
@@ -26,7 +25,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
-*Ecosystem:* LLMs, RAG, ChromaDB, Sentence-Transformers, LightGBM, CatBoost, Prompt Engineering[cite: 3].
+*Ecosystem:* LLMs, RAG, ChromaDB, Sentence-Transformers, LightGBM, CatBoost, Prompt Engineering.
 
 **Backend & Infrastructure:**
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -36,20 +35,24 @@
 ### 🚀 Featured Projects
 
 *   **Medication Reconciliation (OpenEnv)**
-    *   Built a containerized healthcare LLM-agent environment utilizing Qwen2.5-72B-Instruct, functioning as a clinical pharmacist to detect dangerous medication discrepancies[cite: 3].
-    *   Engineered a severity-weighted, step-level reward mechanism for clinically grounded evaluation[cite: 3].
+    *   Built a containerized healthcare LLM-agent environment utilizing Qwen2.5-72B-Instruct, functioning as a clinical pharmacist to detect dangerous medication discrepancies.
+    *   Engineered a severity-weighted, step-level reward mechanism for clinically grounded evaluation.
 *   **Document Synthesizer**
-    *   Architected a modular RAG pipeline featuring a two-stage hybrid retrieval engine (BM25 + BGE-small dense embeddings)[cite: 3].
-    *   Integrated Llama-3.1-8B-Instruct with FlashRank cross-encoder reranking for highly accurate, cited question answering over complex research PDFs[cite: 3].
+    *   Architected a modular RAG pipeline featuring a two-stage hybrid retrieval engine (BM25 + BGE-small dense embeddings).
+    *   Integrated Llama-3.1-8B-Instruct with FlashRank cross-encoder reranking for highly accurate, cited question answering over complex research PDFs.
+* **🚚 Real-Time Supply Chain & Fleet Visibility Platform**
+    *   A real-time tracking and intelligent alert system. Engineered a real-time driver drowsiness detection model utilizing facial-landmark analysis and eye-aspect-ratio (EAR) thresholding, achieving 92% accuracy with sub-200ms inference latency per frame.
 *   **Gridlock Event Traffic Command System**
-    *   Developed a spatial-temporal traffic congestion pipeline and FastAPI backend using LightGBM and CatBoost, scaling to over 2 million event-segment pairs[cite: 4].
+    *   Developed a spatial-temporal traffic congestion pipeline and FastAPI backend using LightGBM and CatBoost, scaling to over 2 million event-segment pairs.
 *   **Network Intrusion Detection System (NIDS)**
-    *   Engineered a machine learning classification pipeline for multi-class cyber threats, reducing class imbalance by 60% on the UNSW-NB15 dataset[cite: 4].
+    *   Engineered a machine learning classification pipeline for multi-class cyber threats, reducing class imbalance by 60% on the UNSW-NB15 dataset.
+
+
 
 ### 🏆 Achievements
-- **Flipkart Gridlock 2.0:** National Round 2 Finalist (Top 1,600 nationally)[cite: 4].
-- **Microsoft Hack for Green Bharat:** National Finalist (Top 25 out of 400+ teams)[cite: 4].
-- **Paranox 2.0 Hackathon (TechXNinjas):** National Finalist (Ranked 14th out of 5,000+ teams)[cite: 4].
+- **Flipkart Gridlock 2.0:** National Round 2 Finalist (Top 1,600 nationally).
+- **Microsoft Hack for Green Bharat:** National Finalist (Top 25 out of 400+ teams).
+- **Paranox 2.0 Hackathon (TechXNinjas):** National Finalist (Ranked 14th out of 5,000+ teams).
 
 ### 📊 GitHub Stats
 <div align="center">

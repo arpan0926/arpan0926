@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Arpan Sharma 👋</h1>
-  <h3> Machine Learning | Generative AI | Agentic AI | B.Tech CSE @ DTU</h3>
+  <h3> Machine Learning | Generative AI | RAG |  Agentic AI | B.Tech CSE @ DTU</h3>
 </div>
 
 ---
